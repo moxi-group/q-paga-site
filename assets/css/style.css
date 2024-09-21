@@ -4173,7 +4173,7 @@ input[type="radio"]:checked + label:before {
   left: 0;
   right: 0;
   width: 100%;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   -webkit-box-shadow: 0px 10px 30px rgb(0 0 0 / 5%);
   box-shadow: 0px 10px 30px rgb(0 0 0 / 5%);
 }
